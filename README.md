@@ -1,16 +1,14 @@
 # polylinedemoapp
 
-A new Flutter application.
+Drawing Route Direction in Flutter Using Openrouteservice API and Google Map (No billing account needed)
 
-## Getting Started
+## Clone and Go
 
-This project is a starting point for a Flutter application.
+Clone the project to you local machine, put you API keys where needed.
 
-A few resources to get you started if this is your first Flutter project:
+For Details Visit : [Medium Post](https://medium.com/@rohanarafat86/drawing-route-direction-in-flutter-using-openrouteservice-api-and-google-maps-in-flutter-4431a2989dd5)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+##Screenshot
+<img src="https://github.com/ArafatRohan93/flutter-polyline-demo/blob/master/Screenshot_2020-07-03-04-40-31-319_com.arafatrohan.polylinedemoapp.jpg" width="350" height="712">   
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
